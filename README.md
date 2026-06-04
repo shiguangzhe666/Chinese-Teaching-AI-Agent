@@ -38,8 +38,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/shiguangzhe666/语文AI教学智能体.git
-cd 语文AI教学智能体
+https://github.com/shiguangzhe666/Chinese-Teaching-AI-Agent.git
+cd Chinese-Teaching-AI-Agent/语文AI教学智能体
 ```
 
 ### 2. 安装依赖
